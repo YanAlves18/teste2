@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/YanAlves18/teste2)
+![GitHub](https://img.shields.io/github/license/YanAlves18/teste2)
+![Twitter Follow](https://img.shields.io/twitter/follow/YanPabloAlves3?label=Seguir&style=social)
 # Teste
 ## Curso Git e Github
 Texto ...
