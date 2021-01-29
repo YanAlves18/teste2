@@ -10,4 +10,4 @@ Texto ...
 ### Assistir ao vídeo de introdução 
 [![Curso Git Github](http://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](http://www.youtube.com/watch?v=FF1f4bKYhoo "Vídeo de introdução ao curso")
 ### Exemplo de link
-[exemplo de link](link)
+[exemplo de link](https://guides.github.com/features/mastering-markdown/)
